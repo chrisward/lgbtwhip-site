@@ -118,16 +118,16 @@ if ($pagename == "constituency") {
         <div class="large-12 columns styled-block">
             <div class="row">
                 <div class="large-4 small-4 columns center">
-                    <img src="<?php echo get_template_directory_uri(); ?>/img/checkmark.png" id="cand1vote1" data-tooltip aria-haspopup="true" class="has-tip scale margin" title="Candidate's past voting history indicates that they are in favor of this issue"/>
-                    <img src="<?php echo get_template_directory_uri(); ?>/img/support_icon.png" id="cand1issue1" data-tooltip aria-haspopup="true" class="has-tip scale" title="Candidate answered yes to this question in the survey"/>
+                    <img src="<?php echo get_template_directory_uri(); ?>/img/question_mark.png" id="cand1vote1" data-tooltip aria-haspopup="true" class="has-tip scale margin" title="Candidate's past voting history indicates that they are in favor of this issue"/>
+                    <img src="<?php echo get_template_directory_uri(); ?>/img/question_mark.png" id="cand1issue1" data-tooltip aria-haspopup="true" class="has-tip scale" title="Candidate answered yes to this question in the survey"/>
                 </div>
                 <div class="large-4 small-4 columns center">
-                    <img src="<?php echo get_template_directory_uri(); ?>/img/crossmark.png" id="cand2vote1" data-tooltip aria-haspopup="true" class="has-tip scale margin" title="Candidate's past voting history indicates that they are not in favor of this issue"/>
-                    <img src="<?php echo get_template_directory_uri(); ?>/img/dont_support_icon.png" id="cand2issue1" data-tooltip aria-haspopup="true" class="has-tip scale" title="Candidate answered no to this question in the survey"/>
+                    <img src="<?php echo get_template_directory_uri(); ?>/img/question_mark.png" id="cand2vote1" data-tooltip aria-haspopup="true" class="has-tip scale margin" title="Candidate's past voting history indicates that they are not in favor of this issue"/>
+                    <img src="<?php echo get_template_directory_uri(); ?>/img/question_mark.png" id="cand2issue1" data-tooltip aria-haspopup="true" class="has-tip scale" title="Candidate answered no to this question in the survey"/>
                 </div>
                 <div class="large-4 small-4 columns center">
                     <img src="<?php echo get_template_directory_uri(); ?>/img/question_mark.png" id="cand3vote1" data-tooltip aria-haspopup="true" class="has-tip scale margin" title="Candidate has no historical preference for this issue"/>
-                    <img src="<?php echo get_template_directory_uri(); ?>/img/dont_support_icon.png" id="cand3issue1" data-tooltip aria-haspopup="true" class="has-tip scale" title="Candidate answered no to this question in the survey" />
+                    <img src="<?php echo get_template_directory_uri(); ?>/img/question_mark.png" id="cand3issue1" data-tooltip aria-haspopup="true" class="has-tip scale" title="Candidate answered no to this question in the survey" />
                 </div>
             </div>
         </div>
@@ -139,16 +139,16 @@ if ($pagename == "constituency") {
         <div class="large-12 columns styled-block">
             <div class="row">
                 <div class="large-4 small-4 columns center">
-                    <img src="<?php echo get_template_directory_uri(); ?>/img/checkmark.png" id="cand1vote2" data-tooltip aria-haspopup="true" class="has-tip scale margin" title="Candidate's past voting history indicates that they are in favor of this issue"/>
-                    <img src="<?php echo get_template_directory_uri(); ?>/img/support_icon.png" id="cand1issue2" data-tooltip aria-haspopup="true" class="has-tip scale" title="Candidate answered yes to this question in the survey"/>
+                    <img src="<?php echo get_template_directory_uri(); ?>/img/question_mark.png" id="cand1vote2" data-tooltip aria-haspopup="true" class="has-tip scale margin" title="Candidate's past voting history indicates that they are in favor of this issue"/>
+                    <img src="<?php echo get_template_directory_uri(); ?>/img/question_mark.png" id="cand1issue2" data-tooltip aria-haspopup="true" class="has-tip scale" title="Candidate answered yes to this question in the survey"/>
                 </div>
                 <div class="large-4 small-4 columns center">
-                    <img src="<?php echo get_template_directory_uri(); ?>/img/crossmark.png" id="cand2vote2" data-tooltip aria-haspopup="true" class="has-tip scale margin" title="Candidate's past voting history indicates that they are not in favor of this issue"/>
-                    <img src="<?php echo get_template_directory_uri(); ?>/img/dont_support_icon.png" id="cand2issue2" data-tooltip aria-haspopup="true" class="has-tip scale" title="Candidate answered no to this question in the survey"/>
+                    <img src="<?php echo get_template_directory_uri(); ?>/img/question_mark.png" id="cand2vote2" data-tooltip aria-haspopup="true" class="has-tip scale margin" title="Candidate's past voting history indicates that they are not in favor of this issue"/>
+                    <img src="<?php echo get_template_directory_uri(); ?>/img/question_mark.png" id="cand2issue2" data-tooltip aria-haspopup="true" class="has-tip scale" title="Candidate answered no to this question in the survey"/>
                 </div>
                 <div class="large-4 small-4 columns center">
                     <img src="<?php echo get_template_directory_uri(); ?>/img/question_mark.png" id="cand3vote2" data-tooltip aria-haspopup="true" class="has-tip scale margin" title="Candidate has no historical preference for this issue"/>
-                    <img src="<?php echo get_template_directory_uri(); ?>/img/dont_support_icon.png" id="cand3issue2" data-tooltip aria-haspopup="true" class="has-tip scale" title="Candidate answered no to this question in the survey" />
+                    <img src="<?php echo get_template_directory_uri(); ?>/img/question_mark.png" id="cand3issue2" data-tooltip aria-haspopup="true" class="has-tip scale" title="Candidate answered no to this question in the survey" />
                 </div>
             </div>
         </div>
@@ -160,16 +160,16 @@ if ($pagename == "constituency") {
         <div class="large-12 columns styled-block">
             <div class="row">
                 <div class="large-4 small-4 columns center">
-                    <img src="<?php echo get_template_directory_uri(); ?>/img/checkmark.png" id="cand1vote3" data-tooltip aria-haspopup="true" class="has-tip scale margin" title="Candidate's past voting history indicates that they are in favor of this issue"/>
-                    <img src="<?php echo get_template_directory_uri(); ?>/img/support_icon.png" id="cand1issue3" data-tooltip aria-haspopup="true" class="has-tip scale" title="Candidate answered yes to this question in the survey"/>
+                    <img src="<?php echo get_template_directory_uri(); ?>/img/question_mark.png" id="cand1vote3" data-tooltip aria-haspopup="true" class="has-tip scale margin" title="Candidate's past voting history indicates that they are in favor of this issue"/>
+                    <img src="<?php echo get_template_directory_uri(); ?>/img/question_mark.png" id="cand1issue3" data-tooltip aria-haspopup="true" class="has-tip scale" title="Candidate answered yes to this question in the survey"/>
                 </div>
                 <div class="large-4 small-4 columns center">
-                    <img src="<?php echo get_template_directory_uri(); ?>/img/crossmark.png" id="cand2vote3" data-tooltip aria-haspopup="true" class="has-tip scale margin" title="Candidate's past voting history indicates that they are not in favor of this issue"/>
-                    <img src="<?php echo get_template_directory_uri(); ?>/img/dont_support_icon.png" id="cand2issue3" data-tooltip aria-haspopup="true" class="has-tip scale" title="Candidate answered no to this question in the survey"/>
+                    <img src="<?php echo get_template_directory_uri(); ?>/img/question_mark.png" id="cand2vote3" data-tooltip aria-haspopup="true" class="has-tip scale margin" title="Candidate's past voting history indicates that they are not in favor of this issue"/>
+                    <img src="<?php echo get_template_directory_uri(); ?>/img/question_mark.png" id="cand2issue3" data-tooltip aria-haspopup="true" class="has-tip scale" title="Candidate answered no to this question in the survey"/>
                 </div>
                 <div class="large-4 small-4 columns center">
                     <img src="<?php echo get_template_directory_uri(); ?>/img/question_mark.png" id="cand3vote3" data-tooltip aria-haspopup="true" class="has-tip scale margin" title="Candidate has no historical preference for this issue"/>
-                    <img src="<?php echo get_template_directory_uri(); ?>/img/dont_support_icon.png" id="cand3issue3" data-tooltip aria-haspopup="true" class="has-tip scale" title="Candidate answered no to this question in the survey" />
+                    <img src="<?php echo get_template_directory_uri(); ?>/img/question_mark.png" id="cand3issue3" data-tooltip aria-haspopup="true" class="has-tip scale" title="Candidate answered no to this question in the survey" />
                 </div>
             </div>
         </div>
@@ -181,16 +181,16 @@ if ($pagename == "constituency") {
         <div class="large-12 columns styled-block">
             <div class="row">
                 <div class="large-4 small-4 columns center">
-                    <img src="<?php echo get_template_directory_uri(); ?>/img/checkmark.png" id="cand1vote4" data-tooltip aria-haspopup="true" class="has-tip scale margin" title="Candidate's past voting history indicates that they are in favor of this issue"/>
-                    <img src="<?php echo get_template_directory_uri(); ?>/img/support_icon.png" id="cand1issue4" data-tooltip aria-haspopup="true" class="has-tip scale" title="Candidate answered yes to this question in the survey"/>
+                    <img src="<?php echo get_template_directory_uri(); ?>/img/question_mark.png" id="cand1vote4" data-tooltip aria-haspopup="true" class="has-tip scale margin" title="Candidate's past voting history indicates that they are in favor of this issue"/>
+                    <img src="<?php echo get_template_directory_uri(); ?>/img/question_mark.png" id="cand1issue4" data-tooltip aria-haspopup="true" class="has-tip scale" title="Candidate answered yes to this question in the survey"/>
                 </div>
                 <div class="large-4 small-4 columns center">
-                    <img src="<?php echo get_template_directory_uri(); ?>/img/crossmark.png" id="cand2vote4" data-tooltip aria-haspopup="true" class="has-tip scale margin" title="Candidate's past voting history indicates that they are not in favor of this issue"/>
-                    <img src="<?php echo get_template_directory_uri(); ?>/img/dont_support_icon.png" id="cand2issue4" data-tooltip aria-haspopup="true" class="has-tip scale" title="Candidate answered no to this question in the survey"/>
+                    <img src="<?php echo get_template_directory_uri(); ?>/img/question_mark.png" id="cand2vote4" data-tooltip aria-haspopup="true" class="has-tip scale margin" title="Candidate's past voting history indicates that they are not in favor of this issue"/>
+                    <img src="<?php echo get_template_directory_uri(); ?>/img/question_mark.png" id="cand2issue4" data-tooltip aria-haspopup="true" class="has-tip scale" title="Candidate answered no to this question in the survey"/>
                 </div>
                 <div class="large-4 small-4 columns center">
                     <img src="<?php echo get_template_directory_uri(); ?>/img/question_mark.png" id="cand3vote4" data-tooltip aria-haspopup="true" class="has-tip scale margin" title="Candidate has no historical preference for this issue"/>
-                    <img src="<?php echo get_template_directory_uri(); ?>/img/dont_support_icon.png" id="cand3issue4" data-tooltip aria-haspopup="true" class="has-tip scale" title="Candidate answered no to this question in the survey" />
+                    <img src="<?php echo get_template_directory_uri(); ?>/img/question_mark.png" id="cand3issue4" data-tooltip aria-haspopup="true" class="has-tip scale" title="Candidate answered no to this question in the survey" />
                 </div>
             </div>
         </div>
@@ -202,16 +202,16 @@ if ($pagename == "constituency") {
         <div class="large-12 columns styled-block">
             <div class="row">
                 <div class="large-4 small-4 columns center">
-                    <img src="<?php echo get_template_directory_uri(); ?>/img/checkmark.png" id="cand1vote5" data-tooltip aria-haspopup="true" class="has-tip scale margin" title="Candidate's past voting history indicates that they are in favor of this issue"/>
-                    <img src="<?php echo get_template_directory_uri(); ?>/img/support_icon.png" data-tooltip aria-haspopup="true" class="has-tip scale" title="Candidate answered yes to this question in the survey"/>
+                    <img src="<?php echo get_template_directory_uri(); ?>/img/question_mark.png" id="cand1vote5" data-tooltip aria-haspopup="true" class="has-tip scale margin" title="Candidate's past voting history indicates that they are in favor of this issue"/>
+                    <img src="<?php echo get_template_directory_uri(); ?>/img/question_mark.png" id="cand1issue5" data-tooltip aria-haspopup="true" class="has-tip scale" title="Candidate answered yes to this question in the survey"/>
                 </div>
                 <div class="large-4 small-4 columns center">
-                    <img src="<?php echo get_template_directory_uri(); ?>/img/crossmark.png" data-tooltip aria-haspopup="true" class="has-tip scale margin" title="Candidate's past voting history indicates that they are not in favor of this issue"/>
-                    <img src="<?php echo get_template_directory_uri(); ?>/img/dont_support_icon.png" data-tooltip aria-haspopup="true" class="has-tip scale" title="Candidate answered no to this question in the survey"/>
+                    <img src="<?php echo get_template_directory_uri(); ?>/img/question_mark.png" id="cand2vote5" data-tooltip aria-haspopup="true" class="has-tip scale margin" title="Candidate's past voting history indicates that they are not in favor of this issue"/>
+                    <img src="<?php echo get_template_directory_uri(); ?>/img/question_mark.png" id="cand1issue5" data-tooltip aria-haspopup="true" class="has-tip scale" title="Candidate answered no to this question in the survey"/>
                 </div>
                 <div class="large-4 small-4 columns center">
-                    <img src="<?php echo get_template_directory_uri(); ?>/img/question_mark.png" data-tooltip aria-haspopup="true" class="has-tip scale margin" title="Candidate has no historical preference for this issue"/>
-                    <img src="<?php echo get_template_directory_uri(); ?>/img/dont_support_icon.png" data-tooltip aria-haspopup="true" class="has-tip scale" title="Candidate answered no to this question in the survey" />
+                    <img src="<?php echo get_template_directory_uri(); ?>/img/question_mark.png" id="cand3vote5" data-tooltip aria-haspopup="true" class="has-tip scale margin" title="Candidate has no historical preference for this issue"/>
+                    <img src="<?php echo get_template_directory_uri(); ?>/img/question_mark.png" id="cand3issue5" data-tooltip aria-haspopup="true" class="has-tip scale" title="Candidate answered no to this question in the survey" />
                 </div>
             </div>
         </div>
@@ -223,16 +223,16 @@ if ($pagename == "constituency") {
         <div class="large-12 columns styled-block">
             <div class="row">
                 <div class="large-4 small-4 columns center">
-                    <img src="<?php echo get_template_directory_uri(); ?>/img/checkmark.png" data-tooltip aria-haspopup="true" class="has-tip scale margin" title="Candidate's past voting history indicates that they are in favor of this issue"/>
-                    <img src="<?php echo get_template_directory_uri(); ?>/img/support_icon.png" data-tooltip aria-haspopup="true" class="has-tip scale" title="Candidate answered yes to this question in the survey"/>
+                    <img src="<?php echo get_template_directory_uri(); ?>/img/question_mark.png" id="cand1vote6" data-tooltip aria-haspopup="true" class="has-tip scale margin" title="Candidate's past voting history indicates that they are in favor of this issue"/>
+                    <img src="<?php echo get_template_directory_uri(); ?>/img/question_mark.png" id="cand1issue6" data-tooltip aria-haspopup="true" class="has-tip scale" title="Candidate answered yes to this question in the survey"/>
                 </div>
                 <div class="large-4 small-4 columns center">
-                    <img src="<?php echo get_template_directory_uri(); ?>/img/crossmark.png" data-tooltip aria-haspopup="true" class="has-tip scale margin" title="Candidate's past voting history indicates that they are not in favor of this issue"/>
-                    <img src="<?php echo get_template_directory_uri(); ?>/img/dont_support_icon.png" data-tooltip aria-haspopup="true" class="has-tip scale" title="Candidate answered no to this question in the survey"/>
+                    <img src="<?php echo get_template_directory_uri(); ?>/img/question_mark.png" id="cand2vote6" data-tooltip aria-haspopup="true" class="has-tip scale margin" title="Candidate's past voting history indicates that they are not in favor of this issue"/>
+                    <img src="<?php echo get_template_directory_uri(); ?>/img/question_mark.png" id="cand2issue6" data-tooltip aria-haspopup="true" class="has-tip scale" title="Candidate answered no to this question in the survey"/>
                 </div>
                 <div class="large-4 small-4 columns center">
-                    <img src="<?php echo get_template_directory_uri(); ?>/img/question_mark.png" data-tooltip aria-haspopup="true" class="has-tip scale margin" title="Candidate has no historical preference for this issue"/>
-                    <img src="<?php echo get_template_directory_uri(); ?>/img/dont_support_icon.png" data-tooltip aria-haspopup="true" class="has-tip scale" title="Candidate answered no to this question in the survey" />
+                    <img src="<?php echo get_template_directory_uri(); ?>/img/question_mark.png" id="cand3vote6" data-tooltip aria-haspopup="true" class="has-tip scale margin" title="Candidate has no historical preference for this issue"/>
+                    <img src="<?php echo get_template_directory_uri(); ?>/img/question_mark.png" id="cand3issue6" data-tooltip aria-haspopup="true" class="has-tip scale" title="Candidate answered no to this question in the survey" />
                 </div>
             </div>
         </div>
@@ -245,15 +245,15 @@ if ($pagename == "constituency") {
             <div class="row">
                 <div class="large-4 small-4 columns center">
                     <img src="<?php echo get_template_directory_uri(); ?>/img/question_mark.png" data-tooltip aria-haspopup="true" class="has-tip scale margin" title="As this is a current issue, no past voting information is available."/>
-                    <img src="<?php echo get_template_directory_uri(); ?>/img/support_icon.png" data-tooltip aria-haspopup="true" class="has-tip scale" title="Candidate answered yes to this question in the survey"/>
+                    <img src="<?php echo get_template_directory_uri(); ?>/img/question_mark.png" id="cand1issue7" data-tooltip aria-haspopup="true" class="has-tip scale" title="Candidate answered yes to this question in the survey"/>
                 </div>
                 <div class="large-4 small-4 columns center">
                     <img src="<?php echo get_template_directory_uri(); ?>/img/question_mark.png" data-tooltip aria-haspopup="true" class="has-tip scale margin" title="As this is a current issue, no past voting information is available."/>
-                    <img src="<?php echo get_template_directory_uri(); ?>/img/dont_support_icon.png" data-tooltip aria-haspopup="true" class="has-tip scale" title="Candidate answered no to this question in the survey"/>
+                    <img src="<?php echo get_template_directory_uri(); ?>/img/question_mark.png" id="cand2issue7" data-tooltip aria-haspopup="true" class="has-tip scale" title="Candidate answered no to this question in the survey"/>
                 </div>
                 <div class="large-4 small-4 columns center">
                     <img src="<?php echo get_template_directory_uri(); ?>/img/question_mark.png" data-tooltip aria-haspopup="true" class="has-tip scale margin" title="As this is a current issue, no past voting information is available."/>
-                    <img src="<?php echo get_template_directory_uri(); ?>/img/dont_support_icon.png" data-tooltip aria-haspopup="true" class="has-tip scale" title="Candidate answered no to this question in the survey" />
+                    <img src="<?php echo get_template_directory_uri(); ?>/img/question_mark.png" id="cand3issue7" data-tooltip aria-haspopup="true" class="has-tip scale" title="Candidate answered no to this question in the survey" />
                 </div>
             </div>
         </div>
@@ -266,15 +266,15 @@ if ($pagename == "constituency") {
             <div class="row">
                 <div class="large-4 small-4 columns center">
                     <img src="<?php echo get_template_directory_uri(); ?>/img/question_mark.png" data-tooltip aria-haspopup="true" class="has-tip scale margin" title="As this is a current issue, no past voting information is available."/>
-                    <img src="<?php echo get_template_directory_uri(); ?>/img/support_icon.png" data-tooltip aria-haspopup="true" class="has-tip scale" title="Candidate answered yes to this question in the survey"/>
+                    <img src="<?php echo get_template_directory_uri(); ?>/img/question_mark.png" id="cand1issue8" data-tooltip aria-haspopup="true" class="has-tip scale" title="Candidate answered yes to this question in the survey"/>
                 </div>
                 <div class="large-4 small-4 columns center">
                     <img src="<?php echo get_template_directory_uri(); ?>/img/question_mark.png" data-tooltip aria-haspopup="true" class="has-tip scale margin" title="As this is a current issue, no past voting information is available."/>
-                    <img src="<?php echo get_template_directory_uri(); ?>/img/dont_support_icon.png" data-tooltip aria-haspopup="true" class="has-tip scale" title="Candidate answered no to this question in the survey"/>
+                    <img src="<?php echo get_template_directory_uri(); ?>/img/question_mark.png" id="cand2issue8" data-tooltip aria-haspopup="true" class="has-tip scale" title="Candidate answered no to this question in the survey"/>
                 </div>
                 <div class="large-4 small-4 columns center">
                     <img src="<?php echo get_template_directory_uri(); ?>/img/question_mark.png" data-tooltip aria-haspopup="true" class="has-tip scale margin" title="As this is a current issue, no past voting information is available."/>
-                    <img src="<?php echo get_template_directory_uri(); ?>/img/dont_support_icon.png" data-tooltip aria-haspopup="true" class="has-tip scale" title="Candidate answered no to this question in the survey" />
+                    <img src="<?php echo get_template_directory_uri(); ?>/img/question_mark.png" id="cand3issue8" data-tooltip aria-haspopup="true" class="has-tip scale" title="Candidate answered no to this question in the survey" />
                 </div>
             </div>
         </div>
@@ -287,15 +287,15 @@ if ($pagename == "constituency") {
             <div class="row">
                 <div class="large-4 small-4 columns center">
                     <img src="<?php echo get_template_directory_uri(); ?>/img/question_mark.png" data-tooltip aria-haspopup="true" class="has-tip scale margin" title="As this is a current issue, no past voting information is available."/>
-                    <img src="<?php echo get_template_directory_uri(); ?>/img/support_icon.png" data-tooltip aria-haspopup="true" class="has-tip scale" title="Candidate answered yes to this question in the survey"/>
+                    <img src="<?php echo get_template_directory_uri(); ?>/img/question_mark.png" id="cand1issue9" data-tooltip aria-haspopup="true" class="has-tip scale" title="Candidate answered yes to this question in the survey"/>
                 </div>
                 <div class="large-4 small-4 columns center">
                     <img src="<?php echo get_template_directory_uri(); ?>/img/question_mark.png" data-tooltip aria-haspopup="true" class="has-tip scale margin" title="As this is a current issue, no past voting information is available."/>
-                    <img src="<?php echo get_template_directory_uri(); ?>/img/dont_support_icon.png" data-tooltip aria-haspopup="true" class="has-tip scale" title="Candidate answered no to this question in the survey"/>
+                    <img src="<?php echo get_template_directory_uri(); ?>/img/question_mark.png" id="cand2issue9" data-tooltip aria-haspopup="true" class="has-tip scale" title="Candidate answered no to this question in the survey"/>
                 </div>
                 <div class="large-4 small-4 columns center">
                     <img src="<?php echo get_template_directory_uri(); ?>/img/question_mark.png" data-tooltip aria-haspopup="true" class="has-tip scale margin" title="As this is a current issue, no past voting information is available."/>
-                    <img src="<?php echo get_template_directory_uri(); ?>/img/dont_support_icon.png" data-tooltip aria-haspopup="true" class="has-tip scale" title="Candidate answered no to this question in the survey" />
+                    <img src="<?php echo get_template_directory_uri(); ?>/img/question_mark.png" id="cand3issue9" data-tooltip aria-haspopup="true" class="has-tip scale" title="Candidate answered no to this question in the survey" />
                 </div>
             </div>
         </div>
