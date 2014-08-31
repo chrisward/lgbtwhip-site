@@ -263,3 +263,53 @@ a:hover {
     border-radius: 6px 6px 0px 0px;
     padding: 8px 0px 4px 0px;
 }
+
+.ukip {
+    background-image: url(../img/parties/UKIP.png);
+    width: 30px;
+    height: 30px;
+    background-size: 30px 30px;
+    margin-right: 10px;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+
+.labour {
+    background-image: url(../img/parties/Logo_Labour_Party_big.png);
+    width: 30px;
+    height: 30px;
+    background-size: 30px 30px;
+    margin-right: 10px;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+
+.libdem {
+    background-image: url(../img/parties/Liberal_Democrat.png);
+    width: 30px;
+    height: 30px;
+    background-size: 30px 30px;
+    margin-right: 10px;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+
+.green {
+    background-image: url(../img/parties/Green.png);
+    width: 30px;
+    height: 30px;
+    background-size: 30px 30px;
+    margin-right: 10px;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+
+.conservative {
+    background-image: url(../img/parties/Conservative.png);
+    width: 30px;
+    height: 30px;
+    background-size: 30px 30px;
+    margin-right: 10px;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
