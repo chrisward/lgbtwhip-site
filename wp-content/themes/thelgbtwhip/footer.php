@@ -49,6 +49,7 @@
                 
                 // Update the constituency name
                 $('#constituencyTitle').html(arConstituency["name"]);
+                $('#givenPostcode').html(sPostcode);
                 
                 // Now insert the candidates
                 for (var i = 0; i < arConstituency["candidates"].length; i++)

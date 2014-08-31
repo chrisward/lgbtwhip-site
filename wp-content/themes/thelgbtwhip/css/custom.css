@@ -1,229 +1,265 @@
 body {
-  background-color: #764299;
-  padding: 12px;
+    background-color: #764299;
+    padding: 12px;
 }
 
 h1 {
-  font-size: 28px;
-  font-weight: 100;
-  color: #fff;
-  text-align: center;
-  line-height: 1em;
-  font-family: 'Helvetica Neue', 'Open Sans', sans-serif;
+    font-size: 28px;
+    font-weight: 100;
+    color: #fff;
+    text-align: center;
+    line-height: 1em;
+    font-family: 'Helvetica Neue', 'Open Sans', sans-serif;
 }
 
 h1.logotitle {
-  text-transform: uppercase;
+    text-transform: uppercase;
+    font-size:40px;
 }
 
 h1.logosplashtitle {
-  font-size: 56px;
-  text-transform: uppercase;
+    font-size: 56px;
+    text-transform: uppercase;
 }
 
 .splashintro {
-  max-width: 400px;
-  margin: auto;
-  text-align: justify;
-  color: #ffffff;
-  margin-top: 30px;
+    max-width: 400px;
+    margin: auto;
+    text-align: justify;
+    color: #ffffff;
+    margin-top: 30px;
 }
 
 h2 {
-  font-size: 18px;
-  font-weight: 100;
-  color: #fff;
-  text-align: center;  
-  font-family: 'Helvetica Neue', 'Open Sans', sans-serif;
+    font-size: 20px;
+    font-weight: 100;
+    color: #fff;
+    text-align: center;  
+    font-family: 'Helvetica Neue', 'Open Sans', sans-serif;
 }
 
 h3 {
-  font-size: 14px;
-  font-weight: 200;
-  color: rgba(255,255,255,0.28);
-  text-align: center;  
-  margin-bottom: 20px;
-  font-family: 'Helvetica Neue', 'Open Sans', sans-serif;
+    font-size: 16px;
+    font-weight: 200;
+    color: rgba(255,255,255,0.38);
+    text-align: center;  
+    margin-bottom: 20px;
+    font-family: 'Helvetica Neue', 'Open Sans', sans-serif;
 }
 
 h4 {
-  font-size: 74px;
-  font-weight: 100;
-  color: #fff;
-  text-align: center;
-  line-height: 1em;  
-  margin-top: 20px;
-  font-family: 'Helvetica Neue', 'Open Sans', sans-serif;
+    font-size: 74px;
+    font-weight: 100;
+    color: #fff;
+    text-align: center;
+    line-height: 1em;  
+    margin-top: 20px;
+    font-family: 'Helvetica Neue', 'Open Sans', sans-serif;
+}
+
+.searchbox {
+    padding: 1em;
+    border-radius: 2em;
+    font-size:18pt;
+}
+
+.searchbox a i.fi-magnifying-glass {
+    color:#FFF;
+}
+
+.searchbox.fixed-center-splash {
+    background-color: #A67FD1
+}
+
+.searchbox.fixed-top-right-corner {
+    position:absolute;
+    top: 2em;
+    right: 2em;
+    border:solid 2px #A67FD1;
+    background-color: #764299;
+}
+
+h4 #givenPostcode {
+    font-weight:bold;
+    margin-right:0.5em;
 }
 
 a {
-  color: #fff;
-  font-family: 'Helvetica Neue', 'Open Sans', sans-serif;
-  font-weight: 100;
+    color: #fff;
+    font-family: 'Helvetica Neue', 'Open Sans', sans-serif;
+    font-weight: 100;
 }
 
 a:hover {
-  color: #a9a9a9;
+    color: #a9a9a9;
+}
+
+.searchbox a {
+    color: #A67FD1;
+}
+
+.searchbox a:hover {
+    color: #FFF;
 }
 
 .center {
-  text-align: center;
+    text-align: center;
 }
 
 .white {
-  color: #fff;
-  margin-bottom: 30px;
+    color: #fff;
+    margin-bottom: 30px;
 }
 
 .group {
-  background-color: #fff;
-  color: #000;
-  border-radius: 99px;
+    background-color: #fff;
+    color: #000;
+    border-radius: 99px;
 }
 
 .margin {
-  margin-right: 10px;
+    margin-right: 10px;
 }
 
 .headshot {
-  text-align: center;
-  margin-left: auto;
-  margin-right: auto;
-  margin-bottom: 20px;
-  max-height: 118px;
-  max-width: 118px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+    max-height: 118px;
+    max-width: 118px;
 }
 
 .headshot img {
-  border-radius: 9999px;
-   -webkit-filter: grayscale(100%);
-  border: 1px solid #fff;
+    border-radius: 9999px;
+    -webkit-filter: grayscale(100%);
+    border: 1px solid #fff;
 }
 
 .styled-block {
-  border-radius: 0px 0px 6px 6px;
-  background-color: #fff;
-  margin-bottom: 40px;
-  padding: 22px 0px 22px 0px;
+    border-radius: 0px 0px 6px 6px;
+    background-color: #fff;
+    margin-bottom: 40px;
+    padding: 22px 0px 22px 0px;
 }
 
 .yes {
-  background-color: #72be49;
-  border-radius: 99px;
-  width: 40px;
-  height: 40px;
-  color: #fff;
-  padding-top: 8px;
-  text-align: center;
-  margin-left: auto;
-  margin-right: auto;
-  margin-bottom: 10px;
-  margin-top: 10px;
+    background-color: #72be49;
+    border-radius: 99px;
+    width: 40px;
+    height: 40px;
+    color: #fff;
+    padding-top: 8px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    margin-top: 10px;
 }
 
 .no {
-  background-color: #ea5e5b;
-  border-radius: 99px;
-  width: 40px;
-  height: 40px;
-  color: #fff;
-  padding-top: 8px;
-  text-align: center;
-  margin-left: auto;
-  margin-right: auto;
-  margin-bottom: 10px;
-  margin-top: 10px;
+    background-color: #ea5e5b;
+    border-radius: 99px;
+    width: 40px;
+    height: 40px;
+    color: #fff;
+    padding-top: 8px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    margin-top: 10px;
 }
 
 .undecided {
-  background-color: #dddee0;
-  border-radius: 99px;
-  width: 40px;
-  height: 40px;
-  color: #434343;
-  padding-top: 8px;
-  margin-left: auto;
-  text-align: center;
-  margin-right: auto;
-  margin-bottom: 10px;
-  margin-top: 10px;
+    background-color: #dddee0;
+    border-radius: 99px;
+    width: 40px;
+    height: 40px;
+    color: #434343;
+    padding-top: 8px;
+    margin-left: auto;
+    text-align: center;
+    margin-right: auto;
+    margin-bottom: 10px;
+    margin-top: 10px;
 }
 
 .like {
-  background-color: #72be49;
-  border-radius: 99px;
-  width: 40px;
-  height: 40px;
-  color: #fff;
-  padding-top: 8px;
-  text-align: center;
-  margin-left: auto;
-  margin-right: auto;  
-  margin-bottom: 10px;
-  margin-bottom: 10px;
-  margin-top: 10px;
+    background-color: #72be49;
+    border-radius: 99px;
+    width: 40px;
+    height: 40px;
+    color: #fff;
+    padding-top: 8px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;  
+    margin-bottom: 10px;
+    margin-bottom: 10px;
+    margin-top: 10px;
 }
 
 .dislike {
-  background-color: #ea5e5b;
-  border-radius: 99px;
-  width: 40px;
-  height: 40px;
-  color: #fff;
-  padding-top: 8px;
-  text-align: center;
-  margin-left: auto;
-  margin-right: auto;  
-  margin-bottom: 10px;
-  margin-top: 10px;
+    background-color: #ea5e5b;
+    border-radius: 99px;
+    width: 40px;
+    height: 40px;
+    color: #fff;
+    padding-top: 8px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;  
+    margin-bottom: 10px;
+    margin-top: 10px;
 }
 
 .separator {
-  width: 80%;
-  margin-left: auto;
-  margin-right: auto;
-  margin-bottom: 40px;
-  margin-top: 20px;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 40px;
+    margin-top: 20px;
 }
 
 .scale {
-  height: 25px;
-  width: 25px;
+    height: 25px;
+    width: 25px;
 }
 
 .logo {
-  margin-top: 10px;
-  background-image: url(../img/lgbtwhip_logo.png);
-  width: 200px;
-  height: 152px;
-  background-size: 200px 152px;
-  margin-left: auto;
-  margin-right: auto;
+    margin-top: 10px;
+    background-image: url(../img/lgbtwhip_logo.png);
+    width: 300px;
+    height: 228px;
+    background-size: 300px 228px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .logosplash {
-  margin-top: 10px;
-  background-image: url(../img/lgbtwhip_logo.png);
-  width: 400px;
-  height: 304px;
-  background-size: 400px 304px;
-  margin-left: auto;
-  margin-right: auto;
+    margin-top: 10px;
+    background-image: url(../img/lgbtwhip_logo.png);
+    width: 400px;
+    height: 304px;
+    background-size: 400px 304px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .separator-2 {
-  width: 42%;
-  height: 1px;
-  background-color: rgba(255,255,255,0.1);
-  margin-left: auto;
-  margin-right: auto;
-  margin-bottom: 20px;
-  margin-top: 30px;
+    width: 42%;
+    height: 1px;
+    background-color: rgba(255,255,255,0.1);
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+    margin-top: 30px;
 }
 
 .question {
-  background-color: #722b2b;
-  background-color: rgba(255,255,255,0.1);
-  border-radius: 6px 6px 0px 0px;
-  padding: 8px 0px 4px 0px;
+    background-color: rgba(255,255,255,0.1);
+    background-color: #A67FD1;
+    border-radius: 6px 6px 0px 0px;
+    padding: 8px 0px 4px 0px;
 }
