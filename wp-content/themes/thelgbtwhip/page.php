@@ -34,7 +34,7 @@ if ($pagename == "constituency") {
         </div>
         <div class="large-4 small-4 columns">
             <div class="headshot">
-                <img src="<?php echo get_template_directory_uri(); ?>/img/a2.jpeg"/>
+                <img src="<?php echo get_template_directory_uri(); ?>/img/a3.png"/>
             </div>
             <h1 id="cand2name"></h1>
             <h3 id="cand2party"></h3>
@@ -46,7 +46,7 @@ if ($pagename == "constituency") {
         </div>
         <div class="large-4 small-4 columns">
             <div class="headshot">
-                <img src="<?php echo get_template_directory_uri(); ?>/img/a3.png"/>
+                <img src="<?php echo get_template_directory_uri(); ?>/img/question_mark.png"/>
             </div>
             <h1 id="cand3name"></h1>
             <h3 id="cand3party"></h3>
